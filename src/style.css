@@ -138,12 +138,9 @@ font-style: italic;
              box-shadow :5px 6px 6px 2px #414440;
              transform: scale(1,1);
            }
-.grid{
-  display: flex;
-  justify-content: space-evenly;
-}
 
-.container {
+
+.containerr {
     max-width: 650px;
     margin: 50px auto;
 }
