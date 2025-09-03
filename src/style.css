@@ -99,8 +99,7 @@ text-align :center;
    width: 350px;
    height: 600px;
 }
-
-
+  
 .fin{
   font-size :20px;
   border :1px solid #36384E;
@@ -191,10 +190,11 @@ li{
     margin: 0 auto;
 }
 .lik{
-    border-style: inset;
+  
     box-shadow: 3px 2px 4px;
-    border-radius: 10px;
+    border-radius: 15px;
     border: 2px solid wite-space;
+    background-color: #272627;
     cursor: pointer;
 }
 h1{
@@ -210,9 +210,10 @@ font-style: italic;
   .kip{
    display :flex;
    justify-content: center;
-    margin:auto;
+    margin:0 auto;
     font-family: "Poppins", sans-serif;
   font-weight: 500;
+  line-height: 1.5;
   font-style: italic;
 
   }
@@ -408,6 +409,7 @@ p {
    text-decoration: none;
   }
  }
+
  .btn:link,
  .btn:visited{
   margin-top: 1em;
