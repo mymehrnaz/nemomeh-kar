@@ -3,6 +3,7 @@ body{
     background: linear-gradient(to right, #434343 0%, black 100%);
     
 }
+
  .icone{
     color:#E0B01B;
     background-color :#292F2A;
@@ -84,6 +85,13 @@ font-size :35px;
 h2{
   color:#CFCA7D;
   margin-top :12px;
+}
+.fitti{
+  text-align: center;
+  color: whitesmoke;
+}
+.fotti{
+  text-decoration: none;
 }
 .bip{
 text-align :center;
