@@ -126,6 +126,14 @@ text-align :center;
 .lin{
   font-size :25px;
 }
+.joli{
+  color: rgb(154, 176, 234);
+  padding-left: 8px;
+  font-size: 30px;
+}
+.joli:hover{
+  color: #11cdef;
+}
 .jol{
   text-decoration: none;
   color: black;
